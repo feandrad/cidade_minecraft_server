@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GWG",
+      "WPW",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "tag": "forge:ingots/gold"
+      },
+      "W": {
+        "tag": "minecraft:logs"
+      },
+      "P": {
+        "item": "minecraft:end_crystal"
+      }
+    },
+    "result": {
+      "item": "psi:cad_assembler"
+    }
+  }
