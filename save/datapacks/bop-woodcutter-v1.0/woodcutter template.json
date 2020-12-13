@@ -1,0 +1,127 @@
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_log"
+    },
+    "result": "biomesoplenty:stripped_fir_log",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_log"
+    },
+    "result": "biomesoplenty:fir_wood",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_log"
+    },
+    "result": "biomesoplenty:stripped_fir_wood",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_log"
+    },
+    "result": "biomesoplenty:fir_wood",
+    "count": 1
+}
+
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_log"
+    },
+    "result": "biomesoplenty:fir_planks",
+    "count": 6
+}
+
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_stairs",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_slab",
+    "count": 2
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_fence",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_fence_gate",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_door",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_trapdoor",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_button",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_pressureplate",
+    "count": 1
+}
+
+{
+    "type": "woodcutter:woodcutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_planks"
+    },
+    "result": "biomesoplenty:fir_sign",
+    "count": 1
+}
