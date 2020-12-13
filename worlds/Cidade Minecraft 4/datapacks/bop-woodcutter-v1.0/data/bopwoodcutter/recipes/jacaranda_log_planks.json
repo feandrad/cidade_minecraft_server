@@ -1,8 +1,0 @@
-{
-    "type": "woodcutter:woodcutting",
-    "ingredient": {
-        "item": "biomesoplenty:jacaranda_log"
-    },
-    "result": "biomesoplenty:jacaranda_planks",
-    "count": 6
-}

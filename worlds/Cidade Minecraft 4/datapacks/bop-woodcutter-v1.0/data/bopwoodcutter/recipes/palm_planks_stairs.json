@@ -1,8 +1,0 @@
-{
-    "type": "woodcutter:woodcutting",
-    "ingredient": {
-        "item": "biomesoplenty:palm_planks"
-    },
-    "result": "biomesoplenty:palm_stairs",
-    "count": 1
-}

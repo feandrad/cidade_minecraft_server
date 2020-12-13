@@ -1,8 +1,0 @@
-{
-    "type": "woodcutter:woodcutting",
-    "ingredient": {
-        "item": "biomesoplenty:cherry_log"
-    },
-    "result": "biomesoplenty:cherry_planks",
-    "count": 6
-}

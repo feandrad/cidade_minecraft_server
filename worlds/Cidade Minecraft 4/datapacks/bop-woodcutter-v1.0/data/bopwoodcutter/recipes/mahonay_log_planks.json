@@ -1,8 +1,0 @@
-{
-    "type": "woodcutter:woodcutting",
-    "ingredient": {
-        "item": "biomesoplenty:mahogany_log"
-    },
-    "result": "biomesoplenty:mahogany_planks",
-    "count": 6
-}
