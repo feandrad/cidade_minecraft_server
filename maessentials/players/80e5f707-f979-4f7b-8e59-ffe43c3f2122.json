@@ -1,0 +1,35 @@
+{
+  "uuid": "80e5f707-f979-4f7b-8e59-ffe43c3f2122",
+  "username": "SabinaOliver",
+  "data": {
+    "last_location": {
+      "x": 49.5359578935327,
+      "y": 66.0,
+      "z": -209.67112454400853,
+      "rotationYaw": 138.29639,
+      "rotationPitch": 1.9499929,
+      "world": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "dimension"
+      },
+      "dimension": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "overworld"
+      }
+    },
+    "last_death": 1607832205,
+    "death_count": 8,
+    "fly_enabled": false,
+    "god_enabled": false
+  },
+  "last_usage": {
+    "command": {},
+    "kit": {
+      "tools": 1607825686
+    },
+    "teleport": {},
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}
