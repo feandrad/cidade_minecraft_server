@@ -1,0 +1,33 @@
+{
+  "uuid": "6b7baaf0-f553-4321-84bc-806eea595827",
+  "username": "feandrad",
+  "data": {
+    "last_location": {
+      "x": 93.68261538648035,
+      "y": 65.0,
+      "z": -277.37471734052434,
+      "rotationYaw": -57.59967,
+      "rotationPitch": 11.550005,
+      "world": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "dimension"
+      },
+      "dimension": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "overworld"
+      }
+    },
+    "last_death": 1607991754,
+    "death_count": 1,
+    "fly_enabled": false,
+    "god_enabled": false
+  },
+  "last_usage": {
+    "command": {},
+    "kit": {},
+    "teleport": {},
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}
