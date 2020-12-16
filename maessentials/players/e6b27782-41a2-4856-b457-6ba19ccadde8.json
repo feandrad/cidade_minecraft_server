@@ -1,0 +1,33 @@
+{
+  "uuid": "e6b27782-41a2-4856-b457-6ba19ccadde8",
+  "username": "AmiltonPipocas",
+  "data": {
+    "last_location": {
+      "x": 155.6928437957865,
+      "y": 69.0,
+      "z": 32.01330512046415,
+      "rotationYaw": 40.95569,
+      "rotationPitch": 25.199781,
+      "world": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "dimension"
+      },
+      "dimension": {
+        "field_110626_a": "minecraft",
+        "field_110625_b": "overworld"
+      }
+    },
+    "last_death": 1608089958,
+    "death_count": 1,
+    "fly_enabled": false,
+    "god_enabled": false
+  },
+  "last_usage": {
+    "command": {},
+    "kit": {},
+    "teleport": {},
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}

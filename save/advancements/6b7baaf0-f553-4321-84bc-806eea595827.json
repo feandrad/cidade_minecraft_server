@@ -1655,6 +1655,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2020-12-16 02:49:59 +0000",
+      "minecraft:warped_forest": "2020-12-16 02:48:26 +0000"
+    },
+    "done": false
+  },
   "variant16x:recipes/misc/red_dye_from_rose": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:45 +0000"
@@ -2573,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-12-16 02:48:26 +0000"
+    },
+    "done": true
+  },
   "woodcutter:recipes/building_blocks/stripped_warped_hyphae_from_stripped_warped_stem": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:41 +0000"
@@ -3404,6 +3417,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-12-16 03:37:20 +0000"
     },
     "done": true
   },
@@ -4268,6 +4287,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2020-12-15 00:59:12 +0000",
+      "bayou_mangrove": "2020-12-15 20:42:40 +0000",
       "redwood_forest_edge": "2020-12-13 23:53:47 +0000",
       "lush_savanna": "2020-12-14 20:09:14 +0000",
       "highland": "2020-12-14 23:10:29 +0000",
@@ -4275,9 +4295,11 @@
       "grove_clearing": "2020-12-15 00:59:37 +0000",
       "wooded_scrubland": "2020-12-15 00:59:29 +0000",
       "orchard": "2020-12-13 23:56:33 +0000",
+      "lavender_forest": "2020-12-15 20:38:53 +0000",
       "redwood_hills": "2020-12-14 23:07:47 +0000",
       "lush_desert": "2020-12-15 00:58:39 +0000",
       "redwood_forest": "2020-12-14 23:07:23 +0000",
+      "visceral_heap": "2020-12-16 02:49:44 +0000",
       "grove_lakes": "2020-12-14 00:30:49 +0000",
       "golden_prairie": "2020-12-14 00:04:02 +0000",
       "lavender_field": "2020-12-15 01:11:51 +0000",
@@ -4513,6 +4535,7 @@
       "minecraft:skeleton": "2020-12-14 00:14:30 +0000",
       "minecraft:spider": "2020-12-14 21:09:13 +0000",
       "minecraft:creeper": "2020-12-14 18:02:57 +0000",
+      "minecraft:wither_skeleton": "2020-12-16 02:50:07 +0000",
       "minecraft:enderman": "2020-12-14 18:49:40 +0000",
       "minecraft:silverfish": "2020-12-15 01:08:39 +0000",
       "minecraft:vex": "2020-12-14 23:13:19 +0000",
@@ -8078,6 +8101,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2020-12-16 04:00:39 +0000"
+    },
+    "done": true
+  },
   "variant16x:recipes/redstone/purple_concrete_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:42 +0000"
@@ -9743,6 +9772,12 @@
   "variant16x:recipes/decorations/white_stained_glass_wall": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-12-16 02:48:26 +0000"
     },
     "done": true
   },
@@ -11871,6 +11906,12 @@
     },
     "done": true
   },
+  "astral:spectral_world": {
+    "criteria": {
+      "go_to_nether": "2020-12-16 02:48:26 +0000"
+    },
+    "done": true
+  },
   "variant16x:recipes/redstone/gray_terracotta_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2020-12-13 23:53:46 +0000"
@@ -13079,7 +13120,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2020-12-16 03:46:56 +0000",
+      "minecraft:birch_forest": "2020-12-16 03:50:59 +0000",
       "minecraft:river": "2020-12-14 00:20:43 +0000",
+      "minecraft:lukewarm_ocean": "2020-12-15 20:42:38 +0000",
+      "minecraft:birch_forest_hills": "2020-12-16 03:48:54 +0000",
+      "minecraft:wooded_hills": "2020-12-16 03:47:32 +0000",
       "minecraft:savanna": "2020-12-15 00:58:15 +0000",
       "minecraft:plains": "2020-12-13 23:56:07 +0000"
     },
