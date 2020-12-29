@@ -1,7 +1,7 @@
 {
   "kits": {
     "tools": {
-      "duration": 3600,
+      "duration": 0,
       "items": [
         {
           "name": "minecraft:stone_axe",
@@ -9,7 +9,7 @@
           "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:2},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"Starter Stone Axe\\\"}\"}}"
         },
         {
-          "name": "minecraft:wood_shovel",
+          "name": "minecraft:wooden_shovel",
           "quantity": 1,
           "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:2},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"Starter Wood Shovel\\\"}\"}}"
         },
