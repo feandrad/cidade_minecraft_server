@@ -1,0 +1,39 @@
+{
+  "kits": {
+    "tools": {
+      "duration": 0,
+      "items": [
+        {
+          "name": "minecraft:stone_axe",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:2},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"Starter Stone Axe\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:wooden_shovel",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:2},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"Starter Wood Shovel\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:apple",
+          "quantity": 8,
+          "nbt": ""
+        },
+        {
+          "name": "minecraft:torch",
+          "quantity": 16,
+          "nbt": ""
+        }
+      ]
+    },
+    "enderchest": {
+      "duration": 86400,
+      "items": [
+        {
+          "name": "minecraft:ender_chest",
+          "quantity": 1,
+          "nbt": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "cidade_minecraft:metals",
+                    "weight": "40"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "cidade_minecraft:gems",
+                    "weight": "40"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "cidade_minecraft:",
+                    "weight": "60"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "cidade_minecraft:misc_loot",
+                    "weight": "30"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "cidade_minecraft:magic_loot",
+                    "weight": "60"
+                },
+                {
+                   "type" : "loot_table",
+                   "name": "cidade_minecraft:treasure",
+                   "weight": "5"
+                }
+            ]
+        }
+    ]
+}
