@@ -1,4 +1,12 @@
 .DS_Store
+
+usercache.json
+
+logs/*
+.mixin.out/*
+
+maessentials/players/*
+
 save/*
 !save/datapacks
 !save/serverconfig
