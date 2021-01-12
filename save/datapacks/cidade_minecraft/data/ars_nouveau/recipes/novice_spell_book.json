@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ars_nouveau",
+    "pattern": [
+      "xox",
+      "obo",
+      "xox"
+    ],
+    "key": {
+      "o": {"item": "ars_nouveau:mana_gem"},
+      "x": {"item": "minecraft:gold_ingot"},
+      "b": {"item": "minecraft:book"}
+    },
+    "result": {
+      "item": "ars_nouveau:novice_spell_book"
+    }
+  }

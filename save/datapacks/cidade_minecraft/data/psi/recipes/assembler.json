@@ -1,22 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "GWG",
-      "WPW",
-      " G "
-    ],
-    "key": {
-      "G": {
-        "tag": "forge:ingots/gold"
-      },
-      "W": {
-        "tag": "minecraft:logs"
-      },
-      "P": {
-        "item": "minecraft:end_crystal"
-      }
-    },
-    "result": {
-      "item": "psi:cad_assembler"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gcg",
+    "fwf",
+    "gcg"
+  ],
+  "key": {
+    "g": {"tag": "forge:ingots/gold"},
+    "c": {"item": "ars_nouveau:mythical_clay"},
+    "f": {"item": "ars_nouveau:end_fiber"},
+    "w": {"tag": "minecraft:logs"}
+  },
+  "result": {
+    "item": "psi:cad_assembler"
   }
+}
