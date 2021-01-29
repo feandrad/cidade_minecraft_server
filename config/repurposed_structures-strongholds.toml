@@ -30,15 +30,15 @@
 		#Range: 0 ~ 255
 		netherStrongholdMinHeight = 33
 		#
-		#Allow Nether-styled Stronghold to
-		#generate in modded Nether biomes.
-		#
-		"addNetherStrongholdToModdedBiomes " = true
-		#
 		# How rare are Chains in this Stronghold. (Can have Soul Lantern attached)
 		#
 		#Range: 0 ~ 1000
 		netherStrongholdChainSpawnrate = 50
+		#
+		#Allow Nether-styled Stronghold to
+		#generate in modded Nether biomes.
+		#
+		addNetherStrongholdToModdedBiomes = true
 		#
 		# Allow Nether-styled Strongholds to spawn in Nether category biomes.
 		# Note: Eyes of Ender will work and show the closest Nether Stronghold too.

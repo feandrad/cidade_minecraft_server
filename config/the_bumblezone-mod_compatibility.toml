@@ -5,6 +5,12 @@
 		# 
 		#-----------------------------------------------------
 		#
+		# Allow Honey Treat to be able to feed bees and Honeycomb Brood Blocks.
+		#
+		allowHoneyTreatCompat = true
+		# 
+		#-----------------------------------------------------
+		#
 		# How much of Bee Dungeons is made of ore-based honeycombs.
 		# 0 is no or honeycombs, 1 is max ore honeycombs, and default is 0.3D
 		#
@@ -52,6 +58,61 @@
 		#
 		#Range: 1 ~ 1001
 		PBGreatHoneycombRarityBeeDungeon = 2
+
+	["Mod Compatibility Options"."Buzzier Bees Options"]
+		# 
+		#-----------------------------------------------------
+		#
+		# Allow Bee Dungeons to have normal unscented candles./r/n
+		allowRegularCandlesBeeDungeon = true
+		# 
+		#-----------------------------------------------------
+		#
+		# Allow Bee Dungeons to have scented candles that gives status effects./r/n
+		allowScentedCandlesBeeDungeon = true
+		# 
+		#-----------------------------------------------------
+		#
+		# Allow Bottles Bees item to turn Empty Honeycomb Brood blocks 
+		# back into Honeycomb Brood Blocks with a larva in it. (affects Dispenser too)
+		#
+		allowBottledBeesCompat = true
+		# 
+		#-----------------------------------------------------
+		#
+		# Place Buzzier Bees's Crystallized Honey Blocks on the /r/n surface of land around sea level and above.
+		#
+		crystallizedHoneyWorldgen = true
+		# 
+		#-----------------------------------------------------
+		#
+		# How rare are powerful candles in Spider Infested Bee Dungeons. 
+		# Higher numbers means more rare.
+		# Default rate is 2.
+		#
+		#Range: 0 ~ 10
+		powerfulCandlesRaritySpiderBeeDungeon = 0
+		# 
+		#-----------------------------------------------------
+		#
+		# Allow Spider Infested Bee Dungeons to have scented candles that gives status effects./r/n
+		allowScentedCandlesSpiderBeeDungeon = true
+		# 
+		#-----------------------------------------------------
+		#
+		# How rare are powerful candles in Bee Dungeons. 
+		# Higher numbers means more rare.
+		# Default rate is 2.
+		#
+		#Range: 0 ~ 10
+		powerfulCandlesRarityBeeDungeon = 2
+		# 
+		#-----------------------------------------------------
+		#
+		# Allow Honey Wand to take honey from Filled Porous Honeycomb Block 
+		# and put honey into Porous Honeycomb Block without angering bees.
+		#
+		allowHoneyWandCompat = true
 
 	["Mod Compatibility Options"."Resourceful Bees Options"]
 		# 
